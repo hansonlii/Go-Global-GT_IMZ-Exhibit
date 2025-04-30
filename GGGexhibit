@@ -1,0 +1,211 @@
+{
+    "_title": "Exhibit",
+    "_subtitle": "Pick a Station to Explore More",
+    "_description": "We believe experience design should resonate emotionally and inspire positive action.",
+    "_coverImageUrl": "content/gt/exhibit_mode/title9/touch_content/Title_IX_Template_v2_000a.jpg",
+    "_coverVideoUrl": "content/gt/exhibit_mode/title9/wall_content/IAD_TitleCardVidTest_1080_30s.mp4",
+    "wallBackgroundVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/wall_content/Background_Video.mp4",
+    "_stationButtonColor": "white",
+    "_stationButtonActiveColor": "gray",
+    "stations": {
+        "1": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/buenosaires_popup.mp4",
+            "wallTitle": "BUENOS AIRES",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "The Pontifical Catholic University of Argentina (UCA) is a top private university in Buenos Aires. It offers a wide range of academic programs with a strong focus on ethics and social responsibility. UCA is internationally recognized among Latin America's leading universities.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content01/Buenos_Aires/Buenos_Aires.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content01/Buenos_Aires/Buenos_Aires_01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content01/Buenos_Aires/Buenos_Aires_02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content01/Buenos_Aires/Buenos_Aires_03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content01/Buenos_Aires/Buenos_Aires_04.jpg"
+            ]
+        },
+        "2": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/lisbon_popup.mp4",
+            "wallTitle": "LISBON",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "Lisbon , Portugal  -  Instituto Superior Técnico (IST) ",
+            "wallDescriptionText": "Instituto Superior Técnico (IST) is a highly internationalized school of engineering, and architecture, which promotes the relationship between the university, business and society by encouraging innovation, entrepreneurship, job creation, and knowledge.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content02/Lisbon/Lisbon.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content02/Lisbon/Lisbon01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content02/Lisbon/Lisbon02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content02/Lisbon/Lisbon03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content02/Lisbon/Lisbon04.jpg"
+            ]
+        },
+        "3": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/london_popup.mp4",
+            "wallTitle": "LONDON",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "England  -  Mansfield College ",
+            "wallDescriptionText": "The Oxford Program consists of one week of pre-departure classes in Atlanta followed by five weeks traveling throughout continental Europe. Once the Travel Portion concludes, students spend six weeks studying in Oxford, England while living at Mansfield College, earning twelve credit hours along the way.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content03/London/London.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content03/London/London01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content03/London/London02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content03/London/London03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content03/London/London04.jpg"
+            ]
+        },
+        "4": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/lausanne_popup.mp4",
+            "wallTitle": "LAUSANNE",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "Lausanne, Switzerland  -  Swiss Federal Technology Institute",
+            "wallDescriptionText": "Studying at EPFL offers a unique opportunity to experience one of the world’s leading science and technology institutions in the heart of Europe. EPFL is known for its excellence in education, research, and innovation, with a vibrant international community of 17,000 students.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content04/Lausanne/Lausanne.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content04/Lausanne/Lausanne01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content04/Lausanne/Lausanne02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content04/Lausanne/Lausanne03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content04/Lausanne/Lausanne04.jpg"
+            ]
+        },
+        "5": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/southafrica_popup.mp4",
+            "wallTitle": "SOUTH AFRICA",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "South Africa  -  Grand Challenges",
+            "wallDescriptionText": "The Grand Challenges Global Experiences  program offers a month-long, 6-credit hour faculty-led study abroad in South Africa. Students will explore all 17 UN Sustainable Development Goals through two Public Policy courses and hands-on engagement.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content05/South_Africa/South_Africa.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content05/South_Africa/South_Africa_01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content05/South_Africa/South_Africa_02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content05/South_Africa/South_Africa_03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content05/South_Africa/South_Africa_04.jpg"
+            ]
+        },
+        "6": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/singapore_popup.mp4",
+            "wallTitle": "SINGAPORE",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "Singapore  -  National University of Singapore (NUS)",
+            "wallDescriptionText": "The National University of Singapore (NUS)  is a leading global research institution ranked among Asia’s top universities. NUS offers a broad range of  courses in disciplines from science and engineering to humanities, law, and business.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content06/Singapore/Singapore.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content06/Singapore/singapore01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content06/Singapore/singapore02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content06/Singapore/singapore03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content06/Singapore/singapore04.jpg"
+            ]
+        },
+        "7": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/sydney_popup.mp4",
+            "wallTitle": "SYDNEY",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "Sydney, Australia  -  University of Sydney",
+            "wallDescriptionText": "The University of Sydney is Australia’s most innovative University and one of the top 10 most beautiful in the world. The interdisciplinary nature of the nine faculties and schools allows  it to offer the widest range of academic programs.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl":"content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content07/Sydney/Sydney.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content07/Sydney/sydney01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content07/Sydney/sydney02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content07/Sydney/sydney03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content07/Sydney/sydney04.jpg"
+            ]
+        },
+        "8": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/seoul_popup.mp4",
+            "wallTitle": "SEOUL",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "Seoul, Korea  -  Yonsei University",
+            "wallDescriptionText": "Yonsei University, one of Korea’s most prestigious institutions, has grown to include 18 colleges, 89 departments, and 17 professional graduate schools, serving over 29,000 students. Yonsei combines Korean and Western traditions in its foundation and prides itself on its international outlook.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content08/Seoul/Seoul.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content08/Seoul/Seoul01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content08/Seoul/Seoul02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content08/Seoul/Seoul03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content08/Seoul/Seoul04.jpg"
+            ]
+        },
+        "9": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/tokyo_popup.mp4",
+            "wallTitle": "TOKYO",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "Tokyo, Japan  -  Waseda University",
+            "wallDescriptionText": "Waseda University is a private, coeducational institution of higher learning. It has become an elite comprehensive university that also includes two senior high schools and a College of Technology. ",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content09/Tokyo/Tokyo.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content09/Tokyo/Tokyo01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content09/Tokyo/Tokyo02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content09/Tokyo/Tokyo03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content09/Tokyo/Tokyo04.jpg"
+            ]
+        },
+        "10": {
+            "wallCoverImageUrl": "",
+            "wallCoverVideoUrl": "content/gt/exhibit_mode/GoGlobalGT/JSON_Content/hongkong_popup.mp4",
+            "wallTitle": "HONG KONG",
+            "wallTitleBackgroundColor": "#FFFFFF",
+            "wallTitleTextColor": "#E33125",
+            "wallDescriptionPretext": "Ma Liu Shui, Hong Kong  -  Chinese University of Hong Kong (CUHK) ",
+            "wallDescriptionText": "The Chinese University of Hong Kong (CUHK)  blends tradition with modernity and bridges China and the West. Its Faculty of Engineering is renowned for cutting-edge research and technology transfer, boasting distinguished faculty.",
+            "wallDescriptionBackgroundColor": "#20255E",
+            "wallDescriptionTextColor": "#FFFFFF",
+            "wallPromptText": "EXPLORE",
+            "wallPromptTextOutlineColor": "#FFFFFF",
+            "stationCoverImageUrl": "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content10/Hong_Kong/Hong_Kong.jpg",
+            "stationImageUrls": [
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content10/Hong_Kong/Hong_Kong_01.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content10/Hong_Kong/Hong_Kong_02.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content10/Hong_Kong/Hong_Kong_03.jpg",
+                "content/gt/exhibit_mode/GoGlobalGT/touch_content/touch_content10/Hong_Kong/Hong_Kong_04.jpg"
+            ]
+        }
+    }
+}
